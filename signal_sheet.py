@@ -31,7 +31,7 @@ with open("signal_sheet.md","w") as out:
     out.write("### Open Decisions Summary\n")
     for d in sumOfDecisions:
       out.write(f"{d}\n")
-    out.write("\n----\n\n")
+    out.write("\n---------------------------------------------------------\n\n")
 
 out.write("\n".join(output))
 
