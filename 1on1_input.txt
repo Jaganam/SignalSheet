@@ -1,13 +1,13 @@
 Maya – Engineering
-Top of mind: Backend stability after last deploy
-Blockers: No final call on database vendor
-Open threads: DevX testing feedback
-Decisions: Choose Planetscale or Supabase
-Watch: Increased latency reports
+Top of mind: Backend instability after last deploy is raising internal concerns
+Blockers: No final decision on database vendor and QA automation is behind
+Open threads: DevX feedback from test suite still unaddressed
+Decisions: Finalize choice between Planetscale and Supabase
+Watch: Latency spikes on US-East workloads
 
 Jordan – GTM
-Top of mind: Usage spike from Product Hunt
-Blockers: No tracking on trial conversion
-Open threads: Partner call with Dovetail
-Decisions: Move trial limits up or down
-Watch: Drop in weekly signups
+Top of mind: Trial signups spiked post-Product Hunt
+Blockers: No clear tracking on user conversion flow
+Open threads: Follow-up with Dovetail on partnership scope
+Decisions: Adjust trial limits or wait for usage signal
+Watch: Drop in weekly signups and high churn on day two
